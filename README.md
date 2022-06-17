@@ -1,4 +1,4 @@
-# DeepCNN_Polsar
+# DeepCNN_PolSAR
 
 This code is for the paper "PolSAR Image Classification based on Deep Convolutional Neural Networks and Wavelet Transformation" that is accepted in the IEEE Geoscience and Remote Sensing Letters journal.
 
