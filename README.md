@@ -4,6 +4,8 @@
 
 A. Jamali, M. Mahdianpari, F. Mohammadimanesh, A. Bhattacharya and S. Homayouni, "PolSAR Image Classification Based on Deep Convolutional Neural Networks Using Wavelet Transformation," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4510105, doi: 10.1109/LGRS.2022.3185118.
 
+10.1109/LGRS.2022.3185118
+
 ![Model](https://user-images.githubusercontent.com/22929034/174269444-d658cbcc-b08a-46ad-b8bf-cc2b039a84dd.png)
 
 
